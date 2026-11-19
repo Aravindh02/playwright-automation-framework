@@ -1,0 +1,32 @@
+{
+  "existingUser": {
+    "email": "existing.user@example.com",
+    "password": "Existing@1234"
+  },
+  "invalidUser": {
+    "email": "not.a.real.user@example.com",
+    "password": "WrongPassword1"
+  },
+  "invalidEmailFormat": {
+    "email": "not-an-email",
+    "password": "SomePassword1"
+  },
+  "newUserTemplate": {
+    "name": "Test User",
+    "email": "PLACEHOLDER_UNIQUE_EMAIL",
+    "password": "NewUser@1234",
+    "title": "Mr",
+    "birth_date": "15",
+    "birth_month": "6",
+    "birth_year": "1995",
+    "firstname": "Test",
+    "lastname": "User",
+    "company": "QA Portfolio Project",
+    "address1": "123 Test Street",
+    "country": "India",
+    "zipcode": "600001",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "mobile_number": "9999999999"
+  }
+}

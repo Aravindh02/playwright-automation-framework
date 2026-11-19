@@ -1,0 +1,12 @@
+{
+  "searchTerms": {
+    "valid": "Dress",
+    "noResults": "zzznonexistentproductzzz",
+    "partial": "shirt"
+  },
+  "categories": {
+    "women": "Women",
+    "men": "Men",
+    "kids": "Kids"
+  }
+}
